@@ -16,4 +16,10 @@ Trace of a matrix - sum of its diagonal
 
 -> won't be able to capture information ? Would limit the dimensions of the transformation/ input ? 
 
-4. 
+4. Rank question 
+
+-> min(n,m,l) rank is upper bounded by row or columnar space 
+
+5. Expected value 
+
+-> E(X+Y) = nu1 + nu2 
